@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por la tecnología y siempre en busca de nuevos 
 
 ## 🔧 Proyectos en los que estoy trabajando:
 - **[Mi Portfolio](https://github.com/Daom5095/Portafolio-Daom)**: Un sitio web personal donde muestro mis proyectos y habilidades.
-- **[API Calculadora con Java y Spring](https://github.com/Daom5095/Calculadora-Spring)**: Un proyecto para crear una API de calculadora usando Java y Spring Boot.
+- **[API Calculadora con Java y Spring](https://github.com/Daom5095/mi-calculadora)**: Un proyecto para crear una API de calculadora usando Java y Spring Boot.
 - **[Juego Secreto](https://github.com/Daom5095/JuegoSecreto)**: Un juego interactivo de consola que permite adivinar un número secreto.
 
 ## 💼 ¿Qué busco?
